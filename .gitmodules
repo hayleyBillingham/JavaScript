@@ -1,0 +1,3 @@
+[submodule "javascript-libraries"]
+	path = javascript-libraries
+	url = https://github.com/hayleyBillingham/javascript-libraries.git
